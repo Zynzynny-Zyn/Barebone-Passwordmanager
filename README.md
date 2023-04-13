@@ -1,6 +1,6 @@
 # Barebone-Passwordmanager
 It's just a barebone password manager. Nothing special for now. 
-All this is just a password manager made in python with capabilities of storing,showing and deleting passwords.
+All this is just a password manager made in python with capabilities of generating,storing,showing and deleting passwords.
 
 
 ## Steps to use the Password manager
