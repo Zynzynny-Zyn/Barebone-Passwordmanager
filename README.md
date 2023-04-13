@@ -8,7 +8,7 @@ All this is just a password manager made in python with capabilities of generati
 1 Run the Table creator(To create the table necessary to manage the password)
 
 
-2 Open the password manager.py(To use the program
+2 Open the password manager.py(To use the program)
 
 ## Dependencies
 
@@ -26,5 +26,4 @@ For those intrested in contributing to this project. I will only be allowing con
 
 ## Note
 
-I am open to criticism though that dosen't mean insult me as a person but I hope I improve. Remember this is in no way this will be
-an alternative to other password manager. This Is not encrypted in any way all! Also I am only open to contributions in Python  not because I think it is better than all other languages but because it is the language im most comfortable with. 
+I am open to criticism though that dosen't mean insult me as a person but I hope I improve. Remember this is in no way an alternative to other more popular password managers. This Is not encrypted in any way all! Also I am only open to contributions in Python  not because I think it is better than all other languages but because it is the language im most comfortable with. 
