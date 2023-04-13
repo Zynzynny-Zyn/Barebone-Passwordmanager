@@ -8,7 +8,7 @@ All this is just a password manager made in python with capabilities of generati
 1 Run the Table creator(To create the table necessary to manage the password)
 
 
-2 Open the password manage.py(To use the program
+2 Open the password manager.py(To use the program
 
 ## Dependencies
 
@@ -18,7 +18,7 @@ All this is just a password manager made in python with capabilities of generati
 
 ## Disclaimer
 
-This program's table is formated badly moreover this is in no way an alternative to a regular password manager. Though It could be used as a password managr. It should be noted that this is not secure in any way. The Database will be stored locally so security will depened on the user. 
+This program's table is formated badly moreover this is in no way an alternative to a regular password manager. Though It could be used as a password manager. It should be noted that this is not secure in any way. The Database will be stored locally so security will depened on the user. 
 
 ## Disclaimer for contributers
 
